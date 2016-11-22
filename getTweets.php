@@ -11,7 +11,7 @@
  ***************************************************************************************************/
  
 //Set Debugging Options
-$debugging = 1; //set this to 1 to see debugging output
+$debugging = 0; //set this to 1 to see debugging output
 
 if($debugging)
 {
