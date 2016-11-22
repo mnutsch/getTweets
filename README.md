@@ -19,8 +19,12 @@ Step 3. Create a Twitter “App” at https://apps.twitter.com. Read the followi
 
 //Example Usage in PHP
 
+
 //get first tweet
+
 get_tweets("mnutsch", 1, 0, TRUE);
 
+
 //get second tweet
+
 get_tweets("mnutsch", 2, 1, TRUE);
