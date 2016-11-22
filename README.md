@@ -1,5 +1,7 @@
 # getTweets
-This is a PHP function to get tweets from a specified account.
+This is a PHP function to get tweets from a specified Twitter account.
+
+function get_tweets($user, $number_of_tweets, $offset, $exclude_replies)
 
 ***********************************************************************************************************
 
